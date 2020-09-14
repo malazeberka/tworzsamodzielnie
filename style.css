@@ -1,28 +1,13 @@
-<div>
-  <br>
-  <h2> Lekcja 3 - Sposób wydobycia dźwięku </h2>
-  <br>
-  Jak rozróżnić instrumenty muzyczne? Czy komputer może być instrumentem?
-  <br>
-</div>
-<div>
-  <br>
-  <h2> Lekcja 4 - Muzyka i emocje </h2>
-  <br>
-  Czy koncert online równa się koncertowi w klubie? Czy artysta skupia się na odbiorcy kiedy występuje?
-  <br>
-</div>
-<div>
-  <br>
-  <h2> Lekcja 5 - Przewodnik po muzyce w internecie </h2>
-  <br>
-  Jak korzystać z serwisów streamingowych? Jak stworzyć własną playlistę?
-  <br>
-</div>
-<div>
-  <br>
-  <h2> Lekcja 6 - Stwórz własną muzykę </h2>
-  <br>
-  Jak zbudować studio domowe? Jak wyeksportować utwór poprawnie i zamieścić na YouTube?
-  <br>
-</div>
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;1,300&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Lato', sans-sans-serif;
+  background-color: white;
+  background-size: cover;
+  color: black;
+}
