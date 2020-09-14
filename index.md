@@ -41,7 +41,7 @@
     <section id="intro">
       <div class="container">
         <div class="row">
-          <img src="images/tworzsamodzielnie2.png" alt="" width="100%">
+          <img src="images/tworzsamodzielnie2.png" class="img-fluid" alt="" width="">
           <div class="col-sm-4">
             <img src="images/kaseta.jpg" class="img-fluid" alt="">
           </div>
