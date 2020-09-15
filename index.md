@@ -46,7 +46,7 @@
             <img src="images/kaseta.jpg" class="img-fluid" alt="">
           </div>
           <div id="intro-overview" class="col-sm-5">
-            <h3 class="h4 text-justify">Kurs online zachęcający do tworzenia muzyki w domu
+            <h3 class="h3 text-justify">Kurs online zachęcający do tworzenia muzyki w domu
               odkrywający przed uczestnikiem podstawowe zagadnienia z zakresu:</h3>
             <h3><i class=" fas fa-music"></i> podstaw muzyki</h3>
             <h3><i class="fas fa-music"></i> stylów muzycznych</h3>
