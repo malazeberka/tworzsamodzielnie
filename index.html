@@ -62,8 +62,7 @@
               <div class="card-body">
                 <h4 class="card-title">ZDOBĄDŹ CERTYFIKAT</h4>
                 <p class="card-text">Zrealizowano w ramach programu stypendialnego Ministra Kultury i Dziedzictwa Narodowego – Kultura w sieci.</p>
-                <a href="https://docs.google.com/forms/d/1cdbGjLbx_4sxRT1eveJSYYmSjr1fdjQ-pJ9eLy_j-zg/prefill
-" class="btn btn-block btn-primary">Zdobądź Certyfikat</a>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSec89NdjVb3o8C0j4HlvS8eCnnb2SBEcG4Bm2hPJ4qaFDvqDA/viewform" class="btn btn-block btn-primary">Zdobądź Certyfikat</a>
               </div>
             </div>
           </div>
