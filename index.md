@@ -46,6 +46,7 @@
             <img src="images/kaseta.jpg" class="img-fluid" alt="">
           </div>
           <div id="intro-overview" class="col-sm-5">
+          <br>
             <h4 class="h4 text-justify">Kurs online zachęcający do tworzenia muzyki w domu
               odkrywający przed uczestnikiem podstawowe zagadnienia z zakresu:</h4>
             <h4><i class=" fas fa-music"></i> podstaw muzyki</h4>
@@ -55,6 +56,7 @@
             <h4><i class="fas fa-music"></i> świadomego korzystania z bibliotek cyfrowych</h4>
             <p class="h5 text-center text-danger">ORAZ</p>
             <h5 class="text-justify">tworzenia prostego utworu muzycznego za pomocą programu Ableton oraz publikowania swojej twórczości na portalu YouTube</h5>
+            <br>
           </div>
           <div class="col-sm-3">
             <div class="card">
