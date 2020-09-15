@@ -41,20 +41,20 @@
     <section id="intro">
       <div class="container">
         <div class="row">
-          <img src="images/tworzsamodzielnie2.png" class="img-fluid" alt="" width="">
+          <!-- <img src="images/tworzsamodzielnie2.png" class="img-fluid" alt="" width=""> -->
           <div class="col-sm-4">
             <img src="images/kaseta.jpg" class="img-fluid" alt="">
           </div>
           <div id="intro-overview" class="col-sm-5">
-            <h4 class="h4 text-justify">Kurs online zachęcający do tworzenia muzyki w domu
-              odkrywający przed uczestnikiem podstawowe zagadnienia z zakresu:</h4>
-            <h4><i class=" fas fa-music"></i> podstaw muzyki</h4>
-            <h4><i class="fas fa-music"></i> stylów muzycznych</h4>
-            <h4><i class="fas fa-music"></i> historii muzyki nowoczesnej</h4>
-            <h4><i class="fas fa-music"></i> rozróżniania instrumentów muzycznych</h4>
-            <h4><i class="fas fa-music"></i> świadomego korzystania z bibliotek cyfrowych</h4>
+            <h3 class="h4 text-justify">Kurs online zachęcający do tworzenia muzyki w domu
+              odkrywający przed uczestnikiem podstawowe zagadnienia z zakresu:</h3>
+            <h3><i class=" fas fa-music"></i> podstaw muzyki</h3>
+            <h3><i class="fas fa-music"></i> stylów muzycznych</h3>
+            <h3><i class="fas fa-music"></i> historii muzyki nowoczesnej</h3>
+            <h3><i class="fas fa-music"></i> rozróżniania instrumentów muzycznych</h3>
+            <h3><i class="fas fa-music"></i> świadomego korzystania z bibliotek cyfrowych</h3>
             <p class="h3 text-center text-danger">ORAZ</p>
-            <h4 class="text-justify">tworzenia prostego utworu muzycznego za pomocą programu Ableton oraz publikowania swojej twórczości na portalu YouTube</h4>
+            <h3 class="text-justify">tworzenia prostego utworu muzycznego za pomocą programu Ableton oraz publikowania swojej twórczości na portalu YouTube</h3>
           </div>
           <div class="col-sm-3">
             <div class="card">
