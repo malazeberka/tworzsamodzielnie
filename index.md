@@ -49,6 +49,7 @@
           <br>
             <h4 class="h4 text-justify">Kurs online zachęcający do tworzenia muzyki w domu
               odkrywający przed uczestnikiem podstawowe zagadnienia z zakresu:</h4>
+            <br>
             <h4><i class=" fas fa-music"></i> podstaw muzyki</h4>
             <h4><i class="fas fa-music"></i> stylów muzycznych</h4>
             <h4><i class="fas fa-music"></i> historii muzyki nowoczesnej</h4>
@@ -139,6 +140,41 @@
               <div class="col-md-9">
                 <div class="embed-responsive embed-responsive-4by3">
           <iframe src="https://open.spotify.com/embed/playlist/2NRiRlCqhh7sbJTuUM588W" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+                </div>
+              </div>
+            </div>
+            <br>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section id="lesson-four">
+      <div class="container">
+        <div class="row">
+          <div class="col text-center">
+            <img src="images/lekcja4white.jpg" alt="" width="60%">
+    <p class="lead">Jak wpływa na nas muzyka? Czy słuchamy jej świadomie? Czy koncerty online zmienią rynek muzyczny?</p>
+            <div class="embed-responsive embed-responsive-16by9 mb-5">
+              <iframe src="https://www.youtube.com/embed/GbTwVgE-RUw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+          </div>
+        </div>
+        <br>
+      </div>
+      </div>
+      </div>
+    </section>
+    <section id="lesson-five">
+      <div class="container">
+        <div class="row">
+          <div class="col text-center">
+            <img src="images/lekcja5white.jpg" alt="" width="60%">
+
+            <p class="lead">Jak rozróżnić gatunki muzyczne? Co to jest streaming?</p>
+            <div class="embed-responsive embed-responsive-16by9 mb-5">
+              <iframe src="https://www.youtube.com/embed/eGx1b4pLBuw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+        
                 </div>
               </div>
             </div>
