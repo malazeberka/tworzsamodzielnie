@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+
 <html lang="en">
 
 <head>
@@ -32,6 +33,18 @@
             <li class="nav-item">
               <a href="#lesson-three" class="nav-link">Instrumenty</a>
             </li>
+            <li class="nav-item">
+              <a href="#lesson-four" class="nav-link">Muzyka i Emocje</a>
+            </li>
+            <li class="nav-item">
+              <a href="#lesson-five" class="nav-link">Streaming</a>
+              </li>
+              <li class="nav-item">
+                <a href="#lesson-six" class="nav-link">DIY</a>
+              </li>
+              <li class="nav-item">
+                <a href="#lesson-contact" class="nav-link">Kontakt</a>
+              </li>
           </ul>
         </div>
       </div>
@@ -174,7 +187,7 @@
             <div class="embed-responsive embed-responsive-16by9 mb-5">
               <iframe src="https://www.youtube.com/embed/eGx1b4pLBuw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
-        
+
                 </div>
               </div>
             </div>
@@ -183,5 +196,25 @@
         </div>
       </div>
     </section>
+    <section id="lesson-six">
+      <div class="container">
+        <div class="row">
+          <div class="col text-center">
+            <img src="images/lekcja6white.jpg" alt="" width="60%">
+
+            <p class="lead">Jak stworzyć swój utwór i pokazać go światu?</p>
+            <div class="embed-responsive embed-responsive-16by9 mb-5">
+              <iframe src="https://www.youtube.com/embed/lqEXVKVtDTY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+
+    </section>
+    <section id="lesson-contact">
+      <div class="container">
+        <div class="row">
+          <div class="col text-center">
+            <img src="images/kontakt.jpg" alt="" width="60%">
+
+          </div>
+          </section>
     </body>
     </html>
